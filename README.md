@@ -80,12 +80,12 @@ Ensure your Python version is 3.12
 
 `sudo apt update` to update package list  
 `sudo apt install python3.12-venv` to get venv for python 3.12  
-`python3 \-m venv .venv` to initialize venv virtual environment  
+`python3 -m venv .venv` to initialize venv virtual environment  
 `source .venv/bin/activate` to enter venv environment
 
 **Install dependencies**
 
-`pip install \-r requirements.txt`
+`pip install -r requirements.txt`
 
 **Now you can run the script to detect cats, dogs, and people in images\!**
 
