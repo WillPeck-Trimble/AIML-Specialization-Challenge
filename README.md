@@ -94,5 +94,4 @@ I’ve included a couple of example images to run out of the box, or you can add
 **Examples:**
 
 `python3 dfine_s_coco.py --file [filename]`
-`python3 dfine_s_coco.py --url [url]`  
-`python3 dfine_s_coco.py --file TwoCats.jpg`
+`python3 dfine_s_coco.py --url [url]`
