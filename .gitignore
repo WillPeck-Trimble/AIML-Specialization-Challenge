@@ -1,0 +1,9 @@
+.venv/
+dfine-venv/
+__pycache__/
+*.pth
+*.keras
+*.weights
+checkpoint/
+logs/
+.ipynb_checkpoints/
