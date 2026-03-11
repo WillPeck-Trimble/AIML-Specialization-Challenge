@@ -98,4 +98,4 @@ I’ve included a couple of example images to run out of the box, or you can add
 
 **Demo Link**
 
-[https://drive.google.com/file/d/1G-YoM2ZQDxx8Isx2_iUORLG6ws1vXH7P/view?usp=sharing](Demo Video)
+[Demo Video](https://drive.google.com/file/d/1G-YoM2ZQDxx8Isx2_iUORLG6ws1vXH7P/view?usp=sharing)
